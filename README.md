@@ -4,4 +4,4 @@ This repository contains the code to replicate the results in the paper 'Rising 
 
 The data can be downloaded in Zenodo upon publication.
 
-To execute the code, place the _code and _driver_product folders in the same directory, and run the code accordingly.
+To execute the code, place the _code, _output, and _driver_product folders in the same directory, and run the code accordingly.
